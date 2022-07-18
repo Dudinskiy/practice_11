@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE group SYSTEM "group.dtd">
+<group>
+    <student firstname="Ivan" lastname="Ivanov" groupnumber="AI-2020">
+        <subject title="math" mark="4"/>
+        <subject title="physics" mark="5"/>
+        <subject title="philosophy" mark="3"/>
+        <subject title="english" mark="4"/>
+        <subject title="history" mark="4"/>
+        <subject title="drawing" mark="4"/>
+        <average>4.2</average>
+
+    </student>
+    <student firstname="Petr" lastname="Petrov" groupnumber="AI-2020">
+        <subject title="math" mark="5"/>
+        <subject title="physics" mark="5"/>
+        <subject title="philosophy" mark="5"/>
+        <subject title="english" mark="5"/>
+        <subject title="history" mark="5"/>
+        <subject title="drawing" mark="4"/>
+        <average>5</average>
+    </student>
+    <student firstname="Anna" lastname="Petrova" groupnumber="AI-2020">
+        <subject title="math" mark="4"/>
+        <subject title="physics" mark="5"/>
+        <subject title="philosophy" mark="4"/>
+        <subject title="english" mark="4"/>
+        <subject title="history" mark="4"/>
+        <subject title="drawing" mark="4"/>
+        <average>4.2</average>
+    </student>
+    <student firstname="Viktoria" lastname="Bodnar" groupnumber="AI-2020">
+        <subject title="math" mark="4"/>
+        <subject title="physics" mark="4"/>
+        <subject title="philosophy" mark="3"/>
+        <subject title="english" mark="5"/>
+        <subject title="history" mark="3"/>
+        <subject title="drawing" mark="4"/>
+        <average>3.8</average>
+    </student>
+    <student firstname="Natalia" lastname="Kuzina" groupnumber="AI-2020">
+        <subject title="math" mark="5"/>
+        <subject title="physics" mark="4"/>
+        <subject title="philosophy" mark="4"/>
+        <subject title="english" mark="5"/>
+        <subject title="history" mark="4"/>
+        <subject title="drawing" mark="5"/>
+        <average>4.5</average>
+    </student>
+    <student firstname="Valeriy" lastname="Drozd" groupnumber="AI-2020">
+        <subject title="math" mark="3"/>
+        <subject title="physics" mark="3"/>
+        <subject title="philosophy" mark="3"/>
+        <subject title="english" mark="5"/>
+        <subject title="history" mark="3"/>
+        <subject title="drawing" mark="4"/>
+        <average>3.5</average>
+    </student>
+</group>
